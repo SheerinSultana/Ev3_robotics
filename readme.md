@@ -1,3 +1,4 @@
+#EV3 Master-Slave in Python
 
 The Python script serves as the control program for a LEGO MINDSTORMS EV3 robot, integrating various sensors and the Pixy2 camera to enable interaction with its surroundings. The robot's behavior is defined by a combination of predefined movements and real-time detection and response to objects.
 
